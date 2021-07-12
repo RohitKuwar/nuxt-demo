@@ -7,7 +7,7 @@
         <div class="goals-task">
           <input id="checkbox1" type="checkbox" />
           <label for="checkbox1">
-            <div class="tick">&#10004;</div>
+            <div class="tick">&#128504;</div>
           </label>
           <h1>Watch first 20 min of Event Loop video</h1>
         </div>
