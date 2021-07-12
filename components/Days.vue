@@ -73,11 +73,6 @@ export default {
   align-items: center;
   padding: 35px 60px;
 }
-.days:hover {
-  transform: scale(1.005);
-  transition: all 0.5s;
-  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
-}
 .day-box {
   display: flex;
   flex-direction: column;
