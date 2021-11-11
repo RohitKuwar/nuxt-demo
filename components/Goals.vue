@@ -32,7 +32,7 @@
           <label for="checkbox2">
             <div class="tick">&#10004;</div>
           </label>
-          <h1>Learn Heap Memory</h1>
+          <h1>Learn Heaps</h1>
         </div>
         <button>Self</button>
       </div>
